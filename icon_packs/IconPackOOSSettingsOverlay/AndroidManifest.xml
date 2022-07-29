@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1" android:versionName="1.0" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="com.android.theme.icon_pack.oos.settings" platformBuildVersionCode="31" platformBuildVersionName="12"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-sdk android:minSdkVersion="31" android:targetSdkVersion="31" />
+    <overlay android:priority="1" android:targetPackage="com.android.settings" android:category="android.theme.customization.icon_pack.settings" />
+    <application android:label="OxygenOS" android:hasCode="false" android:extractNativeLibs="false" />
+</manifest>
