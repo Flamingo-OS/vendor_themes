@@ -31,5 +31,6 @@ PRODUCT_PACKAGES += \
 	IconPackRoundedThemePickerOverlay \
 	IconPackOOSAndroidOverlay \
 	IconPackOOSSystemUIOverlay \
+	IconPackOOSSettingsOverlay \
 	IconPackAcherusAndroidOverlay \
 	IconPackAcherusSystemUIOverlay
